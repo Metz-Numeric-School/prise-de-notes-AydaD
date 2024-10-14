@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Culture juridique/Culture juridique - 09-10-2024.md",
+                "file": "Cours/Anglais/Anglais - 14-10-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Culture juridique/Culture juridique - 09-10-2024.md",
+                "file": "Cours/Anglais/Anglais - 14-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Culture juridique/Culture juridique - 09-10-2024.md",
+                "file": "Cours/Anglais/Anglais - 14-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Culture juridique/Culture juridique - 09-10-2024.md"
+                "file": "Cours/Anglais/Anglais - 14-10-2024.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c7aa612b64d29c10",
+  "active": "d96fc9b79c498e12",
   "lastOpenFiles": [
+    "Cours/Anglais/Anglais - 09-10-2024.md",
+    "Cours/Anglais/Anglais - 14-10-2024.md",
+    "Cours/Culture juridique/Culture juridique - 09-10-2024.md",
+    "Cours/Anglais",
     "Autre.md",
     "Pasted image 20241009093401.png",
     "2024-10-08.md",
-    "Cours/Culture juridique/Culture juridique - 09-10-2024.md",
     "Cours/Cloud Computing/Cloud - 08-10-2024.md",
     "Cours/Culture juridique",
     "Cours/Cloud Computing/Cloud - 07-10-2024.md",
@@ -180,7 +183,6 @@
     "Ressources",
     "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
-    "ALGO"
+    "Welcome.md"
   ]
 }
